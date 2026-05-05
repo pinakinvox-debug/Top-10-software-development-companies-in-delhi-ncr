@@ -220,3 +220,8 @@ The real decision depends on:
 * 👨‍💻 Need for senior involvement
 * ⚙️ Technical complexity
 
+* credits:
+* [writeas](https://write.as/n2zqfclt2s8cw.md)
+* [medium](https://medium.com/@awardlogme/top-10-mobile-app-development-companies-in-delhi-ncr-2025-0012642af550)
+* [linked](https://www.linkedin.com/pulse/top-10-mobile-app-development-companies-delhi-3vpsc)
+
